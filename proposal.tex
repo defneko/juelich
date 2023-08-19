@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{tikz}
+\usepackage{fancyhdr}
+\usepackage[headheight=30pt, top=1in, bottom=1in]{geometry}
+\usepackage[backend=biber]{biblatex}
+
+\title{Research Proposal:\\Surface Analysis of Used Mechanical Heart Valves\\for Microcracks and Defects Detection}
+\author{Defne Korkmaz\thanks{RWTH Aachen University} \and Priv.-Doz. Dr. Steffen Brinckmann\thanks{Jülich Forschungszentrum}}
+\date{\today}
+
+\addbibresource{reflist.bib}
+
+\pagestyle{fancy}
+\fancyhf{} % Clear all header/footer content
+\fancyhead[C]{\includegraphics[width=0.2\textwidth]{rwthlogo.png}\hfill\includegraphics[width=0.2\textwidth]{jülichlogo.png}}
+\renewcommand{\headrulewidth}{1pt}
+\fancyfoot[C]{\thepage} % Page number in the center
+\renewcommand{\footrulewidth}{1pt}
+
+\begin{document}
+\maketitle
+\vfill
+
+\pagebreak
+\section{Introduction}
+\input{introduction.tex}
+
+\section{Motivation}
+\input{motivaton.tex}
+
+\section{Background and Literature Review}
+\input{background.tex}
+\pagebreak
+
+\section{Research Objectives}
+\input{objectives.tex}
+
+\section{Sample Collection and Preparation}
+\input{samplecollection.tex}
+
+\section{Timeline and Work Plan}
+\input{timeline.tex}
+
+\section{Ethical Considerations}
+\input{ethicalconsiderations.tex}
+
+\section{Conclusion}
+\input{conclusion.tex}
+
+\pagebreak
+\printbibliography
+\end{document}

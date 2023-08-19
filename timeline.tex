@@ -1,0 +1,14 @@
+Below is a timeline showing all the past and future milestones of this proposed study.\\
+
+Progress to be made in 2023:
+\begin{figure}[h]
+    \centering
+    \begin{tikzpicture}
+        \draw (0,0) -- (10,0);
+        \foreach \x/\month/\labeltext in {1/Aug/Project Start, 3/Sep/Sample Collection, 5/Oct/Analysis, 7/Nov/Analysis, 9/Dec/First draft} {
+            \draw (\x,0.2) -- (\x,-0.2) node[below] {\month};
+            \node[above, rotate=25] at (\x,0.6) {\labeltext};
+        }
+    \end{tikzpicture}
+    \caption{Project Timeline}
+\end{figure}
