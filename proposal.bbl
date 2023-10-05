@@ -18,7 +18,90 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
+  \datalist[entry]{none/global//global/global}
+    \entry{zhang1995}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5ee5d3d5470ac29a2e7c8df70ed54725}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=43e163149a58c611b4c5a093a1001a2c}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={C.X.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f03fe42ed63401ac4ef58b3a2b7fff6f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.S.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{50a83d521689c96c72a2c1b5e5af8ad8}
+      \strng{fullhash}{50a83d521689c96c72a2c1b5e5af8ad8}
+      \strng{bibnamehash}{50a83d521689c96c72a2c1b5e5af8ad8}
+      \strng{authorbibnamehash}{50a83d521689c96c72a2c1b5e5af8ad8}
+      \strng{authornamehash}{50a83d521689c96c72a2c1b5e5af8ad8}
+      \strng{authorfullhash}{50a83d521689c96c72a2c1b5e5af8ad8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Artificial Organs}
+      \field{number}{9}
+      \field{title}{A Proposal for a Theory and Detection Method of Cavitation Potential of Mitral Bileaflet Heart Valve}
+      \field{volume}{19}
+      \field{year}{1995}
+      \field{pages}{952\bibrangedash 954}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1111/j.1525-1594.1995.tb02458.x
+      \endverb
+    \endentry
+    \entry{wu2001}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a86e97589af4ebc957e84399c0ba5a1c}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=77cd536a09212247c2ee1cf943b4e06f}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={N.H.C.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0151b7020942bdd643fc9fc0278aacf0}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Y.K.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{36ee07338f30ad307bc8dbfb67e8d9bc}
+      \strng{fullhash}{36ee07338f30ad307bc8dbfb67e8d9bc}
+      \strng{bibnamehash}{36ee07338f30ad307bc8dbfb67e8d9bc}
+      \strng{authorbibnamehash}{36ee07338f30ad307bc8dbfb67e8d9bc}
+      \strng{authornamehash}{36ee07338f30ad307bc8dbfb67e8d9bc}
+      \strng{authorfullhash}{36ee07338f30ad307bc8dbfb67e8d9bc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cardiovascular Engineering}
+      \field{title}{A Fracture Mechanics Model for Cavitation Damage in Mechanical Heart Valve Prostheses}
+      \field{volume}{1}
+      \field{year}{2001}
+      \field{pages}{171\bibrangedash 176}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1023/A:1015260211567
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1023/A:1015260211567
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1023/A:1015260211567
+      \endverb
+    \endentry
     \entry{barmada1998}{article}{}
       \name{author}{2}{}{%
         {{hash=cd699bb6384f67be9c507fad25a85f70}{%
@@ -38,8 +121,8 @@
       \strng{authorbibnamehash}{0b55f13b762ed84182ff4536cf943f19}
       \strng{authornamehash}{0b55f13b762ed84182ff4536cf943f19}
       \strng{authorfullhash}{0b55f13b762ed84182ff4536cf943f19}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ASAIO Journal}
@@ -54,55 +137,45 @@
       \verb 10.1097/00002480-199807000-00010
       \endverb
     \endentry
-    \entry{bjork1971}{article}{}
-      \name{author}{1}{}{%
-        {{hash=eb68ca84100df97a83e5d2eb93f82c29}{%
-           family={Björk},
+    \entry{bonou2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=463c4089369d71738c1904f0359c8f8a}{%
+           family={Bonou},
            familyi={B\bibinitperiod},
-           given={V.\bibnamedelimi O.},
-           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+           given={Matina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8288a0a269d416d7ae8b12fa37940e25}{%
+           family={Lampropoulos},
+           familyi={L\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b37a062377fe2a62d72b6476256315e3}{%
+           family={Barbetseas},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
       }
-      \strng{namehash}{eb68ca84100df97a83e5d2eb93f82c29}
-      \strng{fullhash}{eb68ca84100df97a83e5d2eb93f82c29}
-      \strng{bibnamehash}{eb68ca84100df97a83e5d2eb93f82c29}
-      \strng{authorbibnamehash}{eb68ca84100df97a83e5d2eb93f82c29}
-      \strng{authornamehash}{eb68ca84100df97a83e5d2eb93f82c29}
-      \strng{authorfullhash}{eb68ca84100df97a83e5d2eb93f82c29}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \strng{namehash}{61c99aa0f6272a2b71a83dd82b795468}
+      \strng{fullhash}{61c99aa0f6272a2b71a83dd82b795468}
+      \strng{bibnamehash}{61c99aa0f6272a2b71a83dd82b795468}
+      \strng{authorbibnamehash}{61c99aa0f6272a2b71a83dd82b795468}
+      \strng{authornamehash}{61c99aa0f6272a2b71a83dd82b795468}
+      \strng{authorfullhash}{61c99aa0f6272a2b71a83dd82b795468}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Br Heart J}
-      \field{number}{Suppl}
-      \field{title}{Aortic Valve Replacement with the Björk-Shiley Tilting Disc Valve Prosthesis}
-      \field{volume}{33}
-      \field{year}{1971}
-      \field{pages}{42\bibrangedash 46}
-      \range{pages}{5}
-    \endentry
-    \entry{hutchison2011}{book}{}
-      \name{author}{1}{}{%
-        {{hash=784cc7099b403d71b56ba2512eedc206}{%
-           family={Hutchison},
-           familyi={H\bibinitperiod},
-           given={Stuart\bibnamedelima J.},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier Health Sciences}%
-      }
-      \strng{namehash}{784cc7099b403d71b56ba2512eedc206}
-      \strng{fullhash}{784cc7099b403d71b56ba2512eedc206}
-      \strng{bibnamehash}{784cc7099b403d71b56ba2512eedc206}
-      \strng{authorbibnamehash}{784cc7099b403d71b56ba2512eedc206}
-      \strng{authornamehash}{784cc7099b403d71b56ba2512eedc206}
-      \strng{authorfullhash}{784cc7099b403d71b56ba2512eedc206}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Principles of Cardiovascular Radiology}
-      \field{year}{2011}
+      \field{journaltitle}{Eur Heart J Acute Cardiovasc Care}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Prosthetic heart valve obstruction: thrombolysis or surgical treatment?}
+      \field{volume}{1}
+      \field{year}{2012}
+      \field{pages}{122\bibrangedash 127}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1177/2048872612451169
+      \endverb
     \endentry
     \entry{vansteenbergen2019}{article}{}
       \name{author}{6}{}{%
@@ -141,14 +214,14 @@
            given={Wim\bibnamedelima J.},
            giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{733e1ad0a09ab1b3b3b8f34c7d41908e}
+      \strng{namehash}{5b4df7a520b6e7bd70dc017db28797c3}
       \strng{fullhash}{f8505af24b35943c1fb9034e6e2f5c9f}
-      \strng{bibnamehash}{733e1ad0a09ab1b3b3b8f34c7d41908e}
-      \strng{authorbibnamehash}{733e1ad0a09ab1b3b3b8f34c7d41908e}
-      \strng{authornamehash}{733e1ad0a09ab1b3b3b8f34c7d41908e}
+      \strng{bibnamehash}{f8505af24b35943c1fb9034e6e2f5c9f}
+      \strng{authorbibnamehash}{f8505af24b35943c1fb9034e6e2f5c9f}
+      \strng{authornamehash}{5b4df7a520b6e7bd70dc017db28797c3}
       \strng{authorfullhash}{f8505af24b35943c1fb9034e6e2f5c9f}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Spontaneous leaflet fracture of mechanical heart valve prostheses is very rare. We describe a case of spontaneous leaflet embolization 31 years after aortic valve replacement with an Edwards-Duromedics prosthesis (Baxter Healthcare Corp., Edwards Division, Santa Ana, CA). We review the literature on this subject to increase awareness and recognition for this potentially life-threatening complication.}
@@ -170,6 +243,30 @@
       \verb https://doi.org/10.1111/jocs.13975
       \endverb
       \keyw{aortic valve replacement,Bjork Shiley,HFPF,cavitation,Edwards Duromedics,emergency surgery,leaflet escape,valve failure}
+    \endentry
+    \entry{hutchison2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=784cc7099b403d71b56ba2512eedc206}{%
+           family={Hutchison},
+           familyi={H\bibinitperiod},
+           given={Stuart\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Health Sciences}%
+      }
+      \strng{namehash}{784cc7099b403d71b56ba2512eedc206}
+      \strng{fullhash}{784cc7099b403d71b56ba2512eedc206}
+      \strng{bibnamehash}{784cc7099b403d71b56ba2512eedc206}
+      \strng{authorbibnamehash}{784cc7099b403d71b56ba2512eedc206}
+      \strng{authornamehash}{784cc7099b403d71b56ba2512eedc206}
+      \strng{authorfullhash}{784cc7099b403d71b56ba2512eedc206}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Principles of Cardiovascular Radiology}
+      \field{year}{2011}
     \endentry
     \entry{venkatesh2013}{incollection}{}
       \name{author}{2}{}{%
@@ -208,8 +305,8 @@
       \strng{editorbibnamehash}{53e90b110c047f3719474b05d52603a0}
       \strng{editornamehash}{53e90b110c047f3719474b05d52603a0}
       \strng{editorfullhash}{53e90b110c047f3719474b05d52603a0}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Problem Solving in Cardiovascular Imaging}
@@ -228,87 +325,87 @@
       \verb https://www.sciencedirect.com/science/article/pii/B9781437727685000176
       \endverb
     \endentry
-    \entry{wu2001}{article}{}
-      \name{author}{3}{}{%
-        {{hash=a86e97589af4ebc957e84399c0ba5a1c}{%
-           family={Wu},
-           familyi={W\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
-        {{hash=77cd536a09212247c2ee1cf943b4e06f}{%
-           family={Hwang},
-           familyi={H\bibinitperiod},
-           given={N.H.C.},
-           giveni={N\bibinitperiod}}}%
-        {{hash=0151b7020942bdd643fc9fc0278aacf0}{%
-           family={Lin},
-           familyi={L\bibinitperiod},
-           given={Y.K.},
-           giveni={Y\bibinitperiod}}}%
+    \entry{björk1969}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ffd9b0e32c0524f5a6d4284791a90369}{%
+           family={Björk},
+           familyi={B\bibinitperiod},
+           given={Vo},
+           giveni={V\bibinitperiod}}}%
       }
-      \strng{namehash}{36ee07338f30ad307bc8dbfb67e8d9bc}
-      \strng{fullhash}{36ee07338f30ad307bc8dbfb67e8d9bc}
-      \strng{bibnamehash}{36ee07338f30ad307bc8dbfb67e8d9bc}
-      \strng{authorbibnamehash}{36ee07338f30ad307bc8dbfb67e8d9bc}
-      \strng{authornamehash}{36ee07338f30ad307bc8dbfb67e8d9bc}
-      \strng{authorfullhash}{36ee07338f30ad307bc8dbfb67e8d9bc}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \strng{namehash}{ffd9b0e32c0524f5a6d4284791a90369}
+      \strng{fullhash}{ffd9b0e32c0524f5a6d4284791a90369}
+      \strng{bibnamehash}{ffd9b0e32c0524f5a6d4284791a90369}
+      \strng{authorbibnamehash}{ffd9b0e32c0524f5a6d4284791a90369}
+      \strng{authornamehash}{ffd9b0e32c0524f5a6d4284791a90369}
+      \strng{authorfullhash}{ffd9b0e32c0524f5a6d4284791a90369}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Cardiovascular Engineering}
-      \field{title}{A Fracture Mechanics Model for Cavitation Damage in Mechanical Heart Valve Prostheses}
-      \field{volume}{1}
-      \field{year}{2001}
-      \field{pages}{171\bibrangedash 176}
-      \range{pages}{6}
+      \field{journaltitle}{Scand J Thorac Cardiovasc Surg}
+      \field{number}{1}
+      \field{title}{A New Tilting Disc Valve Prosthesis}
+      \field{volume}{3}
+      \field{year}{1969}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
       \verb{doi}
-      \verb 10.1023/A:1015260211567
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1023/A:1015260211567
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1023/A:1015260211567
+      \verb 10.3109/14017436909131912
       \endverb
     \endentry
-    \entry{zhang1995}{article}{}
+    \entry{roudaut2007}{article}{}
       \name{author}{3}{}{%
-        {{hash=5ee5d3d5470ac29a2e7c8df70ed54725}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Z.},
-           giveni={Z\bibinitperiod}}}%
-        {{hash=43e163149a58c611b4c5a093a1001a2c}{%
-           family={Ye},
-           familyi={Y\bibinitperiod},
-           given={C.X.},
-           giveni={C\bibinitperiod}}}%
-        {{hash=f03fe42ed63401ac4ef58b3a2b7fff6f}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Y.S.},
-           giveni={Y\bibinitperiod}}}%
+        {{hash=0c5254b5364fb4412d24f2c45f7383b8}{%
+           family={Roudaut},
+           familyi={R\bibinitperiod},
+           given={Raymond},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8ee83e67373a57e13cb313a802465d56}{%
+           family={Serri},
+           familyi={S\bibinitperiod},
+           given={Karim},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8ddb93ff48f459bfc01affd2135f1689}{%
+           family={Lafitte},
+           familyi={L\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{50a83d521689c96c72a2c1b5e5af8ad8}
-      \strng{fullhash}{50a83d521689c96c72a2c1b5e5af8ad8}
-      \strng{bibnamehash}{50a83d521689c96c72a2c1b5e5af8ad8}
-      \strng{authorbibnamehash}{50a83d521689c96c72a2c1b5e5af8ad8}
-      \strng{authornamehash}{50a83d521689c96c72a2c1b5e5af8ad8}
-      \strng{authorfullhash}{50a83d521689c96c72a2c1b5e5af8ad8}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \strng{namehash}{6a0a3a7e48e2e9c0eb5e6a16b6187b00}
+      \strng{fullhash}{6a0a3a7e48e2e9c0eb5e6a16b6187b00}
+      \strng{bibnamehash}{6a0a3a7e48e2e9c0eb5e6a16b6187b00}
+      \strng{authorbibnamehash}{6a0a3a7e48e2e9c0eb5e6a16b6187b00}
+      \strng{authornamehash}{6a0a3a7e48e2e9c0eb5e6a16b6187b00}
+      \strng{authorfullhash}{6a0a3a7e48e2e9c0eb5e6a16b6187b00}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Artificial Organs}
-      \field{number}{9}
-      \field{title}{A Proposal for a Theory and Detection Method of Cavitation Potential of Mitral Bileaflet Heart Valve}
-      \field{volume}{19}
-      \field{year}{1995}
-      \field{pages}{952\bibrangedash 954}
-      \range{pages}{3}
+      \field{journaltitle}{Heart}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Thrombosis of prosthetic heart valves: diagnosis and therapeutic considerations}
+      \field{volume}{93}
+      \field{year}{2007}
+      \field{pages}{137\bibrangedash 142}
+      \range{pages}{6}
       \verb{doi}
-      \verb 10.1111/j.1525-1594.1995.tb02458.x
+      \verb 10.1136/hrt.2005.071183
+      \endverb
+    \endentry
+    \entry{medtronic_image}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{note}{Image citation from Medtronic website}
+      \field{title}{Medtronic Open Pivot Mechanical Heart Valve}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://europe.medtronic.com/xd-en/healthcare-professionals/products/cardiovascular/heart-valves-surgical/open-pivot-mechanical-heart-valve.html
+      \endverb
+      \verb{url}
+      \verb https://europe.medtronic.com/xd-en/healthcare-professionals/products/cardiovascular/heart-valves-surgical/open-pivot-mechanical-heart-valve.html
       \endverb
     \endentry
   \enddatalist

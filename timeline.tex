@@ -1,14 +1,26 @@
 Below is a timeline showing all the past and future milestones of this proposed study.\\
-
-Progress to be made in 2023:
+\vline
+\\Progress to be made in 2023:
 \begin{figure}[h]
     \centering
     \begin{tikzpicture}
         \draw (0,0) -- (10,0);
-        \foreach \x/\month/\labeltext in {1/Aug/Project Start, 3/Sep/Sample Collection, 5/Oct/Analysis, 7/Nov/Analysis, 9/Dec/First draft} {
+        \foreach \x/\month/\labeltext in {1/Aug/Start of the Project, 3/Sep/Literature research, 5/Oct/Initial Analysis, 7/Nov/Sample Collection, 9/Dec/LM \& SEM Analysis}{
             \draw (\x,0.2) -- (\x,-0.2) node[below] {\month};
             \node[above, rotate=25] at (\x,0.6) {\labeltext};
         }
     \end{tikzpicture}
-    \caption{Project Timeline}
+    \caption{Project Timeline - 2023}
+\end{figure}
+\\Progress to be made in 2024:
+\begin{figure}[h]
+    \centering
+    \begin{tikzpicture}
+        \draw (0,0) -- (10,0);
+        \foreach \x/\month/\labeltext in {1/Jan/LM \& SEM Analysis, 3/Feb/First draft, 5/Mar/Second draft, 7/Apr/Start of the Thesis, 9/May/First draft}{
+            \draw (\x,0.2) -- (\x,-0.2) node[below] {\month};
+            \node[above, rotate=25] at (\x,0.6) {\labeltext};
+        }
+    \end{tikzpicture}
+    \caption{Project Timeline - 2024}
 \end{figure}

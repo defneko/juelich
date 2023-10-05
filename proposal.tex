@@ -2,11 +2,13 @@
 \usepackage{graphicx}
 \usepackage{subcaption}
 \usepackage{tikz}
+\usepackage{hyperref}
 \usepackage{fancyhdr}
 \usepackage[headheight=30pt, top=1in, bottom=1in]{geometry}
-\usepackage[backend=biber]{biblatex}
+\usepackage[backend=biber, style=ieee]{biblatex}
 
-\title{Research Proposal:\\Surface Analysis of Used Mechanical Heart Valves\\for Microcracks and Defects Detection}
+
+\title{Research Proposal:\\Surface Analysis of Used Mechanical Heart Valves\\for Microcracks and Defects Detection\\}
 \author{Defne Korkmaz\thanks{RWTH Aachen University} \and Priv.-Doz. Dr. Steffen Brinckmann\thanks{Jülich Forschungszentrum}}
 \date{\today}
 
@@ -18,37 +20,29 @@
 \renewcommand{\headrulewidth}{1pt}
 \fancyfoot[C]{\thepage} % Page number in the center
 \renewcommand{\footrulewidth}{1pt}
-
 \begin{document}
 \maketitle
 \vfill
-
+\pagebreak
+\tableofcontents
 \pagebreak
 \section{Introduction}
 \input{introduction.tex}
-
 \section{Motivation}
 \input{motivaton.tex}
-
 \section{Background and Literature Review}
 \input{background.tex}
-\pagebreak
-
 \section{Research Objectives}
 \input{objectives.tex}
-
+\pagebreak
 \section{Sample Collection and Preparation}
 \input{samplecollection.tex}
-
 \section{Timeline and Work Plan}
 \input{timeline.tex}
-
 \section{Ethical Considerations}
 \input{ethicalconsiderations.tex}
-
 \section{Conclusion}
 \input{conclusion.tex}
-
 \pagebreak
 \printbibliography
 \end{document}
